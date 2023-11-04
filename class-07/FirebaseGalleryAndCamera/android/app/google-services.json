@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "711340247927",
+    "project_id": "fir-auth-database-41700",
+    "storage_bucket": "fir-auth-database-41700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711340247927:android:d39c0d981724d9a9116f72",
+        "android_client_info": {
+          "package_name": "com.firebasegalleryandcamera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmC-WDUfImTulZP7ehiTe6l8wqRGS80A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
